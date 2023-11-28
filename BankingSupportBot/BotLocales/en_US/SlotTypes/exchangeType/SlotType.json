@@ -1,0 +1,1 @@
+{"name":"exchangeType","identifier":"7SV5AGETCQ","description":null,"slotTypeValues":[{"synonyms":[{"value":"Cashless"}],"sampleValue":{"value":"Non-cash"}},{"synonyms":null,"sampleValue":{"value":"Cash"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}

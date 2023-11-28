@@ -1,0 +1,1 @@
+{"name":"accountNumber","identifier":"6A7ZPZDWMX","description":null,"slotTypeValues":null,"parentSlotTypeSignature":"AMAZON.AlphaNumeric","valueSelectionSetting":{"resolutionStrategy":"ORIGINAL_VALUE","regexFilter":{"pattern":"[0-9]{16,19}"}}}
